@@ -2,16 +2,5 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 
-.shadow-gradient {
-    box-shadow: 0 0 25px 8px rgba(163, 205, 252, 0.6),
-                0 0 0 8px rgba(236, 182, 242, 0.8);
-    transition: box-shadow 0.5s ease;
-  }
-  
-  .shadow-inactive {
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    transition: box-shadow 0.5s ease;
-  }
-     */
+
 

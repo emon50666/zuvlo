@@ -4,7 +4,7 @@ import { FaInstagram, FaXTwitter, FaReddit, FaFacebook } from "react-icons/fa6";
 export default function Footer() {
   return (
     <>
-      <footer className="flex flex-col md:flex-row justify-between items-center p-6 bg-gradient-to-r border-b border-black">
+      <footer className=" flex-col md:flex-row justify-between items-center p-6 bg-gradient-to-r border-b border-black">
         {/* Left Section */}
         <div className="flex flex-col items-start">
           <div className="flex items-center">
