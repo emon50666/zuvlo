@@ -4,7 +4,6 @@ import { gsap } from "gsap";
 import banner from "../assets/banner.png";
 import right from "../assets/right.png";
 import bottom from "../assets/bottom.png";
-
 export default function Hero() {
   const bannerRef = useRef(null);
   let moveTimeout = null;
