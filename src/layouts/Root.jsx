@@ -4,6 +4,7 @@ import FAQSection from '../components/FAQSection'
 import Hero from '../components/Hero'
 import Footer from '../components/Footer'
 
+
 const Root = () => {
   return (
     <div>
@@ -11,8 +12,8 @@ const Root = () => {
        <div className=''>
        <Navbar/>
        <Hero/>
-
        </div>
+      
         <FAQSection/>
         <Footer/>
        </div>
