@@ -22,7 +22,7 @@ export default function Hero() {
         ease: "power1.inOut",
       });
 
-      // Stop animation after 0.2s if no further movement
+      
       moveTimeout = setTimeout(() => {
         gsap.to(bannerRef.current, { x: 0, y: 0, duration: 0.2 });
       }, 50);
